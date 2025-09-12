@@ -2,7 +2,7 @@
  *
  * Created by: Brice
  * Created on: Sep 2025
- * This program ... shows Hello,World
+ * This program  shows Hello,Brice
 */
 
 basic.showString('Hello, Brice!')
